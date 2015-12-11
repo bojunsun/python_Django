@@ -6,5 +6,12 @@ Install Django
 ```
 install pip: sudo easy_install pip
 install django: sudo pip install Django
-creating project: django-admin startproject mysite
+```
+
+---
+Setting
+----
+```
+creating default project: django-admin startproject mysite
+running server: python manage.py runserver
 ```
